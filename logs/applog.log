@@ -1,0 +1,186 @@
+[INFO] 15-09-2024 14:23:17 [main] [LogUtils] - Before all
+[INFO] 15-09-2024 14:23:18 [main] [LogUtils] - Before scenario
+[INFO] 15-09-2024 14:23:33 [main] [LogUtils] - Send keys at First name successfully
+[INFO] 15-09-2024 14:23:33 [main] [LogUtils] - Send keys at Last name successfully
+[INFO] 15-09-2024 14:23:34 [main] [LogUtils] - Send keys at Email successfully
+[INFO] 15-09-2024 14:23:34 [main] [LogUtils] - Click on Male successfully
+[INFO] 15-09-2024 14:23:34 [main] [LogUtils] - Send keys at Phone successfully
+[INFO] 15-09-2024 14:23:34 [main] [LogUtils] - Click on DOB successfully
+[INFO] 15-09-2024 14:23:34 [main] [LogUtils] - Click on Date successfully
+[INFO] 15-09-2024 14:23:34 [main] [LogUtils] - Send keys at Subject successfully
+[INFO] 15-09-2024 14:23:35 [main] [LogUtils] - Click on Subject successfully
+[INFO] 15-09-2024 14:23:35 [main] [LogUtils] - Click on Sports successfully
+[INFO] 15-09-2024 14:23:35 [main] [LogUtils] - Send keys at Current Address successfully
+[INFO] 15-09-2024 14:23:35 [main] [LogUtils] - Send keys at State successfully
+[INFO] 15-09-2024 14:23:35 [main] [LogUtils] - Click on City successfully
+[INFO] 15-09-2024 14:23:35 [main] [LogUtils] - Send keys at City successfully
+[INFO] 15-09-2024 14:23:35 [main] [LogUtils] - Click on Submit successfully
+[INFO] 15-09-2024 14:23:36 [main] [LogUtils] - After scenario
+[INFO] 15-09-2024 14:23:36 [main] [LogUtils] - After all
+[INFO] 15-09-2024 14:44:07 [main] [LogUtils] - Before all
+[INFO] 15-09-2024 14:44:08 [main] [LogUtils] - Before scenario
+[INFO] 15-09-2024 14:44:25 [main] [LogUtils] - Send keys at First name successfully
+[INFO] 15-09-2024 14:44:25 [main] [LogUtils] - Send keys at Last name successfully
+[INFO] 15-09-2024 14:44:25 [main] [LogUtils] - Send keys at Email successfully
+[INFO] 15-09-2024 14:44:25 [main] [LogUtils] - Click on Male successfully
+[INFO] 15-09-2024 14:44:25 [main] [LogUtils] - Send keys at Phone successfully
+[INFO] 15-09-2024 14:44:25 [main] [LogUtils] - Click on DOB successfully
+[INFO] 15-09-2024 14:44:25 [main] [LogUtils] - Click on Date successfully
+[INFO] 15-09-2024 14:44:25 [main] [LogUtils] - Send keys at Subject successfully
+[INFO] 15-09-2024 14:44:26 [main] [LogUtils] - Click on Subject successfully
+[INFO] 15-09-2024 14:44:26 [main] [LogUtils] - Click on Sports successfully
+[INFO] 15-09-2024 14:44:26 [main] [LogUtils] - Send keys at Current Address successfully
+[INFO] 15-09-2024 14:44:26 [main] [LogUtils] - Send keys at State successfully
+[INFO] 15-09-2024 14:44:26 [main] [LogUtils] - Click on City successfully
+[INFO] 15-09-2024 14:44:26 [main] [LogUtils] - Send keys at City successfully
+[INFO] 15-09-2024 14:44:26 [main] [LogUtils] - Click on Submit successfully
+[INFO] 15-09-2024 14:44:27 [main] [LogUtils] - After scenario
+[INFO] 15-09-2024 14:44:27 [main] [LogUtils] - After all
+[INFO] 15-09-2024 14:47:42 [main] [LogUtils] - Before all
+[INFO] 15-09-2024 14:47:43 [main] [LogUtils] - Before scenario
+[INFO] 15-09-2024 14:48:01 [main] [LogUtils] - Send keys at First name successfully
+[INFO] 15-09-2024 14:48:01 [main] [LogUtils] - Send keys at Last name successfully
+[INFO] 15-09-2024 14:48:01 [main] [LogUtils] - Send keys at Email successfully
+[INFO] 15-09-2024 14:48:01 [main] [LogUtils] - Click on Male successfully
+[INFO] 15-09-2024 14:48:01 [main] [LogUtils] - Send keys at Phone successfully
+[INFO] 15-09-2024 14:48:01 [main] [LogUtils] - Click on DOB successfully
+[INFO] 15-09-2024 14:48:01 [main] [LogUtils] - Click on Date successfully
+[INFO] 15-09-2024 14:48:01 [main] [LogUtils] - Send keys at Subject successfully
+[ERROR] 15-09-2024 14:48:12 [main] [LogUtils] - Cannot click on Subject
+[INFO] 15-09-2024 14:48:12 [main] [LogUtils] - Click on Sports successfully
+[INFO] 15-09-2024 14:48:12 [main] [LogUtils] - Send keys at Current Address successfully
+[INFO] 15-09-2024 14:48:12 [main] [LogUtils] - Send keys at State successfully
+[INFO] 15-09-2024 14:48:12 [main] [LogUtils] - Click on City successfully
+[INFO] 15-09-2024 14:48:12 [main] [LogUtils] - Send keys at City successfully
+[INFO] 15-09-2024 14:48:12 [main] [LogUtils] - Click on Submit successfully
+[INFO] 15-09-2024 14:48:12 [main] [LogUtils] - After scenario
+[INFO] 15-09-2024 14:48:13 [main] [LogUtils] - After all
+[INFO] 15-09-2024 14:50:55 [main] [LogUtils] - Before all
+[INFO] 15-09-2024 14:50:56 [main] [LogUtils] - Before scenario
+[INFO] 15-09-2024 14:51:15 [main] [LogUtils] - Send keys at First name successfully
+[INFO] 15-09-2024 14:51:15 [main] [LogUtils] - Send keys at Last name successfully
+[INFO] 15-09-2024 14:51:15 [main] [LogUtils] - Send keys at Email successfully
+[INFO] 15-09-2024 14:51:15 [main] [LogUtils] - Click on Male successfully
+[INFO] 15-09-2024 14:51:16 [main] [LogUtils] - Send keys at Phone successfully
+[INFO] 15-09-2024 14:51:16 [main] [LogUtils] - Click on DOB successfully
+[INFO] 15-09-2024 14:51:16 [main] [LogUtils] - Click on Date successfully
+[INFO] 15-09-2024 14:51:16 [main] [LogUtils] - Send keys at Subject successfully
+[INFO] 15-09-2024 14:51:16 [main] [LogUtils] - Click on Subject successfully
+[INFO] 15-09-2024 14:51:16 [main] [LogUtils] - Click on Sports successfully
+[INFO] 15-09-2024 14:51:16 [main] [LogUtils] - Send keys at Current Address successfully
+[INFO] 15-09-2024 14:51:17 [main] [LogUtils] - Send keys at State successfully
+[INFO] 15-09-2024 14:51:17 [main] [LogUtils] - Click on City successfully
+[INFO] 15-09-2024 14:51:17 [main] [LogUtils] - Send keys at City successfully
+[INFO] 15-09-2024 14:51:17 [main] [LogUtils] - Click on Submit successfully
+[INFO] 15-09-2024 14:51:18 [main] [LogUtils] - After scenario
+[INFO] 15-09-2024 14:51:18 [main] [LogUtils] - After all
+[INFO] 15-09-2024 15:08:56 [main] [LogUtils] - Before all
+[INFO] 15-09-2024 15:08:57 [main] [LogUtils] - Before scenario
+[INFO] 15-09-2024 15:09:13 [main] [LogUtils] - Send keys at First name successfully
+[INFO] 15-09-2024 15:09:13 [main] [LogUtils] - Send keys at Last name successfully
+[INFO] 15-09-2024 15:09:13 [main] [LogUtils] - Send keys at Email successfully
+[INFO] 15-09-2024 15:09:13 [main] [LogUtils] - Click on Male successfully
+[INFO] 15-09-2024 15:09:13 [main] [LogUtils] - Click on DOB successfully
+[INFO] 15-09-2024 15:09:13 [main] [LogUtils] - Click on Date successfully
+[INFO] 15-09-2024 15:09:13 [main] [LogUtils] - Send keys at Subject successfully
+[INFO] 15-09-2024 15:09:14 [main] [LogUtils] - Click on Subject successfully
+[INFO] 15-09-2024 15:09:14 [main] [LogUtils] - Click on Sports successfully
+[INFO] 15-09-2024 15:09:14 [main] [LogUtils] - Send keys at Current Address successfully
+[INFO] 15-09-2024 15:09:14 [main] [LogUtils] - Send keys at State successfully
+[INFO] 15-09-2024 15:09:14 [main] [LogUtils] - Click on City successfully
+[INFO] 15-09-2024 15:09:14 [main] [LogUtils] - Send keys at City successfully
+[INFO] 15-09-2024 15:09:14 [main] [LogUtils] - Click on Submit successfully
+[INFO] 15-09-2024 15:09:25 [main] [LogUtils] - Css value of the name Mobile is: 
+[WARN] 15-09-2024 15:10:06 [main] [LogUtils] - There is no option matched
+[INFO] 15-09-2024 15:10:20 [main] [LogUtils] - After scenario
+[INFO] 15-09-2024 15:10:29 [main] [LogUtils] - Before all
+[INFO] 15-09-2024 15:10:31 [main] [LogUtils] - Before scenario
+[INFO] 15-09-2024 15:10:46 [main] [LogUtils] - Send keys at First name successfully
+[INFO] 15-09-2024 15:10:46 [main] [LogUtils] - Send keys at Last name successfully
+[INFO] 15-09-2024 15:10:46 [main] [LogUtils] - Send keys at Email successfully
+[INFO] 15-09-2024 15:10:46 [main] [LogUtils] - Click on Male successfully
+[INFO] 15-09-2024 15:10:46 [main] [LogUtils] - Click on DOB successfully
+[INFO] 15-09-2024 15:10:47 [main] [LogUtils] - Click on Date successfully
+[INFO] 15-09-2024 15:10:47 [main] [LogUtils] - Send keys at Subject successfully
+[INFO] 15-09-2024 15:10:47 [main] [LogUtils] - Click on Subject successfully
+[INFO] 15-09-2024 15:10:47 [main] [LogUtils] - Click on Sports successfully
+[INFO] 15-09-2024 15:10:47 [main] [LogUtils] - Send keys at Current Address successfully
+[INFO] 15-09-2024 15:10:47 [main] [LogUtils] - Send keys at State successfully
+[INFO] 15-09-2024 15:10:47 [main] [LogUtils] - Click on City successfully
+[INFO] 15-09-2024 15:10:47 [main] [LogUtils] - Send keys at City successfully
+[INFO] 15-09-2024 15:10:47 [main] [LogUtils] - Click on Submit successfully
+[INFO] 15-09-2024 15:10:55 [main] [LogUtils] - Css value of the name Mobile is: 
+[INFO] 15-09-2024 15:11:03 [main] [LogUtils] - After scenario
+[INFO] 15-09-2024 15:11:03 [main] [LogUtils] - After all
+[INFO] 15-09-2024 15:14:41 [main] [LogUtils] - Before all
+[INFO] 15-09-2024 15:14:43 [main] [LogUtils] - Before scenario
+[INFO] 15-09-2024 15:14:51 [main] [LogUtils] - Send keys at First name successfully
+[INFO] 15-09-2024 15:14:51 [main] [LogUtils] - Send keys at Last name successfully
+[INFO] 15-09-2024 15:14:51 [main] [LogUtils] - Send keys at Email successfully
+[INFO] 15-09-2024 15:14:51 [main] [LogUtils] - Click on Male successfully
+[INFO] 15-09-2024 15:14:52 [main] [LogUtils] - Send keys at Phone successfully
+[INFO] 15-09-2024 15:14:52 [main] [LogUtils] - Click on DOB successfully
+[INFO] 15-09-2024 15:14:52 [main] [LogUtils] - Click on Date successfully
+[INFO] 15-09-2024 15:14:52 [main] [LogUtils] - Send keys at Subject successfully
+[INFO] 15-09-2024 15:14:52 [main] [LogUtils] - Click on Subject successfully
+[INFO] 15-09-2024 15:14:52 [main] [LogUtils] - Click on Sports successfully
+[INFO] 15-09-2024 15:14:53 [main] [LogUtils] - Send keys at Current Address successfully
+[INFO] 15-09-2024 15:14:53 [main] [LogUtils] - Send keys at State successfully
+[INFO] 15-09-2024 15:14:53 [main] [LogUtils] - Click on City successfully
+[INFO] 15-09-2024 15:14:53 [main] [LogUtils] - Send keys at City successfully
+[INFO] 15-09-2024 15:14:53 [main] [LogUtils] - Click on Submit successfully
+[INFO] 15-09-2024 15:14:53 [main] [LogUtils] - After scenario
+[INFO] 15-09-2024 15:14:54 [main] [LogUtils] - Before scenario
+[INFO] 15-09-2024 15:15:11 [main] [LogUtils] - Send keys at First name successfully
+[INFO] 15-09-2024 15:15:12 [main] [LogUtils] - Send keys at Last name successfully
+[INFO] 15-09-2024 15:15:12 [main] [LogUtils] - Send keys at Email successfully
+[INFO] 15-09-2024 15:15:12 [main] [LogUtils] - Click on Male successfully
+[INFO] 15-09-2024 15:15:12 [main] [LogUtils] - Click on DOB successfully
+[INFO] 15-09-2024 15:15:12 [main] [LogUtils] - Click on Date successfully
+[INFO] 15-09-2024 15:15:12 [main] [LogUtils] - Send keys at Subject successfully
+[INFO] 15-09-2024 15:15:12 [main] [LogUtils] - Click on Subject successfully
+[INFO] 15-09-2024 15:15:13 [main] [LogUtils] - Click on Sports successfully
+[INFO] 15-09-2024 15:15:13 [main] [LogUtils] - Send keys at Current Address successfully
+[INFO] 15-09-2024 15:15:13 [main] [LogUtils] - Send keys at State successfully
+[INFO] 15-09-2024 15:15:13 [main] [LogUtils] - Click on City successfully
+[INFO] 15-09-2024 15:15:13 [main] [LogUtils] - Send keys at City successfully
+[INFO] 15-09-2024 15:15:13 [main] [LogUtils] - Click on Submit successfully
+[INFO] 15-09-2024 15:15:13 [main] [LogUtils] - Css value of the Mobile fieald is: border-color
+[INFO] 15-09-2024 15:15:13 [main] [LogUtils] - After scenario
+[INFO] 15-09-2024 15:15:13 [main] [LogUtils] - After all
+[INFO] 15-09-2024 15:18:39 [main] [LogUtils] - Before all
+[INFO] 15-09-2024 15:18:41 [main] [LogUtils] - Before scenario
+[INFO] 15-09-2024 15:18:59 [main] [LogUtils] - Send keys at First name successfully
+[INFO] 15-09-2024 15:18:59 [main] [LogUtils] - Send keys at Last name successfully
+[INFO] 15-09-2024 15:19:00 [main] [LogUtils] - Send keys at Email successfully
+[INFO] 15-09-2024 15:19:00 [main] [LogUtils] - Click on Male successfully
+[INFO] 15-09-2024 15:19:00 [main] [LogUtils] - Send keys at Phone successfully
+[INFO] 15-09-2024 15:19:00 [main] [LogUtils] - Click on DOB successfully
+[INFO] 15-09-2024 15:19:00 [main] [LogUtils] - Click on Date successfully
+[INFO] 15-09-2024 15:19:00 [main] [LogUtils] - Send keys at Subject successfully
+[INFO] 15-09-2024 15:19:00 [main] [LogUtils] - Click on Subject successfully
+[INFO] 15-09-2024 15:19:00 [main] [LogUtils] - Click on Sports successfully
+[INFO] 15-09-2024 15:19:00 [main] [LogUtils] - Send keys at Current Address successfully
+[INFO] 15-09-2024 15:19:00 [main] [LogUtils] - Send keys at State successfully
+[INFO] 15-09-2024 15:19:00 [main] [LogUtils] - Click on City successfully
+[INFO] 15-09-2024 15:19:00 [main] [LogUtils] - Send keys at City successfully
+[INFO] 15-09-2024 15:19:00 [main] [LogUtils] - Click on Submit successfully
+[INFO] 15-09-2024 15:19:01 [main] [LogUtils] - After scenario
+[INFO] 15-09-2024 15:19:02 [main] [LogUtils] - Before scenario
+[INFO] 15-09-2024 15:19:16 [main] [LogUtils] - Send keys at First name successfully
+[INFO] 15-09-2024 15:19:16 [main] [LogUtils] - Send keys at Last name successfully
+[INFO] 15-09-2024 15:19:16 [main] [LogUtils] - Send keys at Email successfully
+[INFO] 15-09-2024 15:19:16 [main] [LogUtils] - Click on Male successfully
+[INFO] 15-09-2024 15:19:16 [main] [LogUtils] - Click on DOB successfully
+[INFO] 15-09-2024 15:19:16 [main] [LogUtils] - Click on Date successfully
+[INFO] 15-09-2024 15:19:16 [main] [LogUtils] - Send keys at Subject successfully
+[INFO] 15-09-2024 15:19:16 [main] [LogUtils] - Click on Subject successfully
+[INFO] 15-09-2024 15:19:17 [main] [LogUtils] - Click on Sports successfully
+[INFO] 15-09-2024 15:19:17 [main] [LogUtils] - Send keys at Current Address successfully
+[INFO] 15-09-2024 15:19:17 [main] [LogUtils] - Send keys at State successfully
+[INFO] 15-09-2024 15:19:17 [main] [LogUtils] - Click on City successfully
+[INFO] 15-09-2024 15:19:17 [main] [LogUtils] - Send keys at City successfully
+[INFO] 15-09-2024 15:19:17 [main] [LogUtils] - Click on Submit successfully
+[INFO] 15-09-2024 15:19:17 [main] [LogUtils] - Css value of the Mobile field is: rgb(206, 212, 218)
+[INFO] 15-09-2024 15:19:17 [main] [LogUtils] - After scenario
+[INFO] 15-09-2024 15:19:17 [main] [LogUtils] - After all
